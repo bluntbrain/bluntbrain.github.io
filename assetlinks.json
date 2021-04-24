@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bigwayz",
+    "sha256_cert_fingerprints":
+    ["b4:85:71:1c:e8:41:97:7f:81:94:65:66:2a:8a:44:56:14:c0:66:b3:a8:35:46:ae:9e:58:cf:7b:d2:44:8f:bc"]
+  }
+}]
